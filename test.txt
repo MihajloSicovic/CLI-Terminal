@@ -1,0 +1,41 @@
+<<<<<<< Updated upstream
+Unknown command: "test"
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+test2
+test1
+=======
+date: 28.08.2025.
+>>>>>>> Stashed changes

@@ -1,0 +1,3 @@
+Error - file already exists
+Unknown command: "bye"
+Error - file already exists
